@@ -49,7 +49,7 @@
 ### 🌐 portfolio & contact
 
 <!-- uncomment as you add each one -->
-- 💼 linkedin: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
+- 💼 linkedin: [visit my linkedin]([(https://www.linkedin.com/in/mikey-nguyen-130595283/)])
 <!-- - 🌍 portfolio: [yourdomain.com](https://yourdomain.com) -->
 <!-- - ✉️ email: you@example.com -->
 <!-- - 🐦 twitter / x: [@yourhandle](https://x.com/yourhandle) -->
