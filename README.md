@@ -11,7 +11,7 @@
 - 🛠️ i like turning weird ideas into working software
 - 🌱 currently exploring **applied ai**, full-stack systems, and developer tooling
 - 📍 la jolla, ca
-- ⚡ fun fact: i once shipped a cli that lets claude play minecraft
+- ⚡ fun fact: i once received **3 gold medals** at a TaeKwonDoe tournament
 
 ### 🧰 tech i actually use
 
